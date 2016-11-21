@@ -11,22 +11,22 @@
     "url": "git@github.com:maxogden/requirebin.git"
   },
   "dependencies": {
-    "element-class": "0.0.2",
-    "jsonp": "0.0.3",
-    "javascript-editor": "~0.2.1",
-    "uglify-js": "2.2.3",
-    "browser-module-sandbox": "~1.2.1",
-    "github-oauth": "0.0.4",
-    "concat-stream": "1.0.0",
+    "element-class": "0.2.2",
+    "jsonp": "0.2.0",
+    "javascript-editor": "~1.0.3",
+    "uglify-js": "2.7.4",
+    "browser-module-sandbox": "~1.4.5",
+    "github-oauth": "0.2.2",
+    "concat-stream": "1.5.2",
     "browser-request": "git://github.com/maxogden/browser-request.git",
-    "github-api": "0.7.0",
-    "detective": "~2.1.2"
+    "github-api": "2.3.0",
+    "detective": "~4.3.2"
   },
   "engines": {
     "node": ">=0.8.x"
   },
   "devDependencies": {
-    "browserify": "~2.23.1",
-    "beefy": "~0.4.0"
+    "browserify": "~13.1.1",
+    "beefy": "~2.1.8"
   }
 }
